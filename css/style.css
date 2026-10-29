@@ -1,0 +1,3 @@
+/* Move down content because we have a fixed navbar at 35px tall */ 
+body { padding-top:35px;}
+.btn-primary {background-color:pink;}
